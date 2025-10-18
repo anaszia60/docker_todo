@@ -197,6 +197,11 @@ Shows `docker-compose ps` output with both frontend and backend containers runni
 
 Shows the Todo App frontend UI running in browser at http://localhost:8000 and/or backend API response.
 
+### Screenshot 4: Docker Compose Services
+![Application Screenshot 4](./p4.png)
+
+Shows Docker Compose services and additional container details.
+
 ### Screenshot Commands Reference:
 
 ```bash

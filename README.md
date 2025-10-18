@@ -1,6 +1,6 @@
-# Todo App
+# Todo App - Docker Compose Application
 
-A minimalistic, clean todo application built with vanilla HTML, CSS, and JavaScript.
+A minimalistic, clean todo application built with vanilla HTML, CSS, and JavaScript, deployed using Docker Compose with separate frontend and backend containers.
 
 ## Features
 
@@ -14,14 +14,17 @@ A minimalistic, clean todo application built with vanilla HTML, CSS, and JavaScr
 
 ## Screenshots
 
-### Docker Compose Running
+### Docker Compose Build and Running
 ![Application Screenshot 1](./p1.png)
 
-### Containers Status
+### Docker Compose Containers Status
 ![Application Screenshot 2](./p2.png)
 
-### Application UI
+### Application UI in Browser
 ![Application Screenshot 3](./p3.png)
+
+### Docker Compose Services
+![Application Screenshot 4](./p4.png)
 
 ## Getting Started
 
