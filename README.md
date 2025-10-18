@@ -10,6 +10,18 @@ A minimalistic, clean todo application built with vanilla HTML, CSS, and JavaScr
 - 📱 Responsive design for mobile and desktop
 - 🎨 Beautiful gradient background
 - ⚡ Fast and lightweight (no frameworks required)
+- 🐳 Docker containerized with docker-compose
+
+## Screenshots
+
+### Docker Compose Running
+![Application Screenshot 1](./p1.png)
+
+### Containers Status
+![Application Screenshot 2](./p2.png)
+
+### Application UI
+![Application Screenshot 3](./p3.png)
 
 ## Getting Started
 
